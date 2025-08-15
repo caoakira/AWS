@@ -23,4 +23,4 @@ Amazon Redshift e AWS QuickSight, a empresa pode centralizar grandes volumes de 
 
 Assinatura do Responsável pelo Projeto:
 
-Claudio Akira Ono @
+Claudio Akira Ono
